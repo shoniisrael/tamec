@@ -128,7 +128,7 @@
                 }
     
                 &:nth-child(2){
-                    color: #ff5f13;
+                    color: #fff;
                     -webkit-animation: animate 4s ease-in-out infinite;
                     animation: animate 4s ease-in-out infinite;
                 }
@@ -154,7 +154,7 @@
            span,a{
             position: relative;
             color: #fff;
-            font-size: 18px;
+            font-size: 30px;
             text-transform: uppercase;
             font-family: $font_3;
             font-weight: 400;
