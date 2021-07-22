@@ -34,12 +34,12 @@
                 margin-bottom: 17px;
             }
             & p{
-                color: #a4acc3;
+                color: #fff;
                 font-weight: 500;
                 line-height: 1.5;
                 padding: 0 3px;
                 margin-bottom: 50px;
-                font-size: 16px;
+                font-size: 35px;
 
                 // margin
                 @media #{$md}{
@@ -108,7 +108,7 @@
     }
 }
 .t-bg{
-    background: #00235b;
+    background: #fa7d8f;
 }
 .slick-initialized .slick-slide {
     outline: 0;
